@@ -11,5 +11,7 @@ int main(int argc, const char** argv) {
     // 直接输出结果，减少不必要的变量
     cout << "x + y = " << 1+1<<endl;
 
+    cout << "x + y = " << 1+2<<endl;
+
     return 0;
 }
